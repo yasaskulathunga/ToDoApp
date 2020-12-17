@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import {Button, Input,Row,Col,Card,List,Alert } from 'antd'
-import { DeleteOutlined ,CheckCircleTwoTone} from '@ant-design/icons';
+
 import PList from './component/PList';
 
 const ToDoList = () =>{
